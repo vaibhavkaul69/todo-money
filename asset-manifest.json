@@ -1,15 +1,13 @@
 {
-  "main.css": "static/css/main.2abdf67d.css",
-  "main.css.map": "static/css/main.2abdf67d.css.map",
-  "main.js": "static/js/main.f1a64b88.js",
-  "main.js.map": "static/js/main.f1a64b88.js.map",
-  "static/media/add-transaction-icon.png": "static/media/add-transaction-icon.b5e7f368.png",
-  "static/media/bg_2.jpg": "static/media/bg_2.fbd70670.jpg",
-  "static/media/body-bg.png": "static/media/body-bg.733f590c.png",
-  "static/media/clock.png": "static/media/clock.7e520387.png",
-  "static/media/logo.png": "static/media/logo.79064f7f.png",
-  "static/media/search-icon.png": "static/media/search-icon.512a85ba.png",
-  "static/media/sort-icon.png": "static/media/sort-icon.6c43a55d.png",
-  "static/media/theme-toggle.png": "static/media/theme-toggle.49abf7d0.png",
-  "static/media/user-plus.svg": "static/media/user-plus.2df64339.svg"
+  "main.css": "static/css/main.4764bdee.css",
+  "main.css.map": "static/css/main.4764bdee.css.map",
+  "main.js": "static/js/main.356c9b8b.js",
+  "main.js.map": "static/js/main.356c9b8b.js.map",
+  "static/media/add-transaction-icon.png": "static/media/add-transaction-icon.2633cf90.png",
+  "static/media/bg_2.jpg": "static/media/bg_2.cd59e409.jpg",
+  "static/media/body-bg.png": "static/media/body-bg.f18f3b42.png",
+  "static/media/clock.png": "static/media/clock.7d110776.png",
+  "static/media/theme-toggle.png": "static/media/theme-toggle.6a5683c2.png",
+  "static/media/user-plus.svg": "static/media/user-plus.2df64339.svg",
+  "static/media/user_image.png": "static/media/user_image.df8a24a9.png"
 }
