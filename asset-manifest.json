@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.d39a0d29.css",
-  "main.css.map": "static/css/main.d39a0d29.css.map",
-  "main.js": "static/js/main.ba86b21c.js",
-  "main.js.map": "static/js/main.ba86b21c.js.map",
+  "main.css": "static/css/main.c69cc4af.css",
+  "main.css.map": "static/css/main.c69cc4af.css.map",
+  "main.js": "static/js/main.f98d7e2c.js",
+  "main.js.map": "static/js/main.f98d7e2c.js.map",
   "static/media/404.png": "static/media/404.5841a826.png",
   "static/media/access-denied.svg": "static/media/access-denied.b1eb2b74.svg",
   "static/media/add-transaction-icon.png": "static/media/add-transaction-icon.2633cf90.png",
@@ -22,7 +22,9 @@
   "static/media/no-transaction.png": "static/media/no-transaction.667df5a8.png",
   "static/media/settled.svg": "static/media/settled.72770d74.svg",
   "static/media/success.gif": "static/media/success.a96e3504.gif",
+  "static/media/telephone.svg": "static/media/telephone.e1195dfa.svg",
   "static/media/theme-toggle.png": "static/media/theme-toggle.6a5683c2.png",
   "static/media/user_image.png": "static/media/user_image.df8a24a9.png",
-  "static/media/video-tutorial.svg": "static/media/video-tutorial.c6dfd582.svg"
+  "static/media/video-tutorial.svg": "static/media/video-tutorial.be019740.svg",
+  "static/media/whatsapp.svg": "static/media/whatsapp.5de06485.svg"
 }
