@@ -31,25 +31,21 @@ TODO Money is a Web based Application that acts as a Single Storage Unit for Sto
 
 12. This App is very Easy To Use  as the **UI is very User-Friendly and smooth**.
 
-13. Now you don't need to add the user again after your transactions with him/her have been settled.
+13. Now you **don't need to add the user again after your transactions with him/her have been settled**. Just go on adding the New Transactions and it will start counting.
 
-14. Just go on adding the New Transactions and it will start counting.
+14. We have added **Dark and Light theme support** for a better user experience
 
-15. We have added **Dark and Light theme support** for a better user experience
+15. You can also **Request for Data download**, and you will be able to download a PDF File Containing Transactions between You and the User you select
 
-16. You can also **Request for Data download**, and you will be able to download a PDF File Containing Transactions between You and the User you select
+16. If you face any issue while using the app, we have provided a **Dedicated section For FAQ's** where you can easily find solutions to all your Queries.
 
-17. If you face any issue while using the app, we have provided a **Dedicated section For FAQ's** where you can easily find solutions to all your Queries.
+17. So we have also provided a **Feedback Section** where you can Leave a Feedback too.
 
-18. We would love to know the PROS and CONS of Todo Money from you.
+18. Now, you will be able to **Edit or Settle Individual Transactions**. Which means, while adding a transaction if you made a type error or entered some wrong      information by mistake, then you will be able to correct it by edting that Specific Transaction. And same applies for Settling any individual transaction.
 
-19. So we have also provided a **Feedback Section** where you can Leave a Feedback too.
+19. We have also added **Profit and Loss checker**. Now whenever you add a transaction with a certain user, Todo Money will autmatically tell you whether you are in Profit or Loss with that user.
 
-20. Now, you will be able to **Edit or Settle Individual Transactions**. Which means, while adding a transaction if you made a type error or entered some wrong      information by mistake, then you will be able to correct it by edting that Specific Transaction. And same applies for Settling any individual transaction.
-
-21. We have also added **Profit and Loss checker**. Now whenever you add a transaction with a certain user, Todo Money will autmatically tell you whether you are in Profit or Loss with that user.
-
-22. The **Text SMS and Calling Feature** is now available in the Todo Money App.
+20. The **Text SMS and Calling Feature** is now available in the Todo Money App.
 
 
 # And..... All the features are Free to use.. :)
