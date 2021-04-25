@@ -45,5 +45,11 @@ TODO Money is a Web based Application that acts as a Single Storage Unit for Sto
 
 19. So we have also provided a **Feedback Section** where you can Leave a Feedback too.
 
+20. Now, you will be able to **Edit or Settle Individual Transactions**. Which means, while adding a transaction if you made a type error or entered some wrong      information by mistake, then you will be able to correct it by edting that Specific Transaction. And same applies for Settling any individual transaction.
+
+21. We have also added **Profit and Loss checker**. Now whenever you add a transaction with a certain user, Todo Money will autmatically tell you whether you are in Profit or Loss with that user.
+
+22. The **Text SMS and Calling Feature** is now available in the Todo Money App.
+
 
 # And..... All the features are Free to use.. :)
