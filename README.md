@@ -1,9 +1,7 @@
 # Todo Money
-TODO Money is a Web based Application that acts as a Single Storage Unit for Storing and Managing record of all the Transactions that you made with someone.
+TODO Money is a Web based Application that acts as a Single Storage Unit for Storing and Managing record of all your Expenses.
 
 **Live At : http://todomoney.co.in/**
-
-**Current Active Users : 208**
 
 # Todo Money Features
 
@@ -13,39 +11,27 @@ TODO Money is a Web based Application that acts as a Single Storage Unit for Sto
 
 3. **Todo Money is Installable**. You can install this in your Mobile or Desktop device from a Web Browser and use it from your Device's Home Screen just like a Mobile or Desktop app. 
 
-4. It lets you **add the Amount** of money You Gave to someone (Lend) or the amount of money You Took from someone (Borrowed)
+4. **Total app size < 2 MB**, making it a very light weight application on your device. This app updates almost instantly once they are out. Just close the app and open it and boom it gets updated automatically.
 
-5. It also helps you to **keep Track of the amount of money you need to pay to someone or you need to take from someone** at any point of time, as it automatically Calcuates the same for you.
+5. It lets you add the Amount of money **You Gave to someone (Lend)** or the amount of money **You Took from someone (Borrowed)**
 
-6. We have also added **Live Demos** in our app, if you get stuck and don't know how to proceed? Then just click on Live Demos from the Top Navbar and select the Appropriate Demo that you would like to see and you will be able to See This Demo in Realtime.
+6. It also helps you to **Keep Track of the amount of money you need to pay to someone or you need to take from someone** at any point of time, as it automatically Calcuates the same for you.
 
-7. It also gives you **In App Reminders for the Amount Collections**, ( The Amount You Gave ) as well as the Amount Payable ( The Amount You Borrowed ) as per the Due-Dates you set for the same.
+7. It also gives you **In App / Email Reminders for the Amount Collections**, ( The Amount You Gave ) as well as the Amount Payable ( The Amount You Borrowed ) as per the Due-Dates you set for the same. 
+**( Feature to be released in Upcoming Releases )**
 
-8. You can also **notify a User** about his/her Transaction Amount via Whatsapp
+8. You can also **Notify a User** about his/her Transaction Amount via **Whatsapp / Text Messages**. You send messages in Hindi, English and Highlish language.
 
-9. It lets you **Add an Event in Your as Well as the Recipients Calender** , regarding the Amount collection Due-dates. This will help you to get a Notification for the Same from the Calender app installed in your device
+9. It lets you **Add an Event in Your as Well as the Recipients Calender** , regarding the Amount to be collected. This helps you and the client you made the transaction with get a Notification for the Same from the Calender app installed on your device. 
+**( Feature to be released in Upcoming Releases )**
 
-10. It also Notifies you about the Due Date Reminders via **Pop-up Notifications**, while you are using the app.
+10. This Web App is **highly Performant**
 
-11. This Web App is **highly Performant**
+11. This App is very Easy To Use as the **UI is very User-Friendly and smooth**. Pretty straight forward UI giving users less chance of getting confused.  
 
-12. This App is very Easy To Use  as the **UI is very User-Friendly and smooth**.
+12. You can also **Request for Data download**, and you will be able to download a PDF File Containing Transactions between You and the Client you select. Thus full transparency of transactions between the two parties  
+**( Feature to be released in Upcoming Releases )**
 
-13. Now you **don't need to add the user again after your transactions with him/her have been settled**. Just go on adding the New Transactions and it will start counting.
-
-14. We have added **Dark and Light theme support** for a better user experience
-
-15. You can also **Request for Data download**, and you will be able to download a PDF File Containing Transactions between You and the User you select
-
-16. If you face any issue while using the app, we have provided a **Dedicated section For FAQ's** where you can easily find solutions to all your Queries.
-
-17. So we have also provided a **Feedback Section** where you can Leave a Feedback too.
-
-18. Now, you will be able to **Edit or Settle Individual Transactions**. Which means, while adding a transaction if you made a type error or entered some wrong      information by mistake, then you will be able to correct it by edting that Specific Transaction. And same applies for Settling any individual transaction.
-
-19. We have also added **Profit and Loss checker**. Now whenever you add a transaction with a certain user, Todo Money will autmatically tell you whether you are in Profit or Loss with that user.
-
-20. The **Text SMS and Calling Feature** is now available in the Todo Money App.
-
+13. We have also added **Profit and Loss checker**. Now whenever you add a transaction with a certain user, Todo Money will autmatically tell you whether you are in Profit or Loss with that user.
 
 # And..... All the features are Free to use.. :)
